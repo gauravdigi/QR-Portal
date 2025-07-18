@@ -1,0 +1,617 @@
+[02-Jun-2025 07:23:24 UTC] PHP Deprecated:  Optional parameter $filename declared before required parameter $fore_color is implicitly treated as a required parameter in C:\Users\digisoft\source\qrcode\phpqrcode-master\qrimage.php on line 30
+[02-Jun-2025 07:23:24 UTC] PHP Deprecated:  Optional parameter $pixelPerPoint declared before required parameter $fore_color is implicitly treated as a required parameter in C:\Users\digisoft\source\qrcode\phpqrcode-master\qrimage.php on line 30
+[02-Jun-2025 07:23:24 UTC] PHP Deprecated:  Optional parameter $outerFrame declared before required parameter $fore_color is implicitly treated as a required parameter in C:\Users\digisoft\source\qrcode\phpqrcode-master\qrimage.php on line 30
+[02-Jun-2025 07:23:24 UTC] PHP Deprecated:  Optional parameter $saveandprint declared before required parameter $fore_color is implicitly treated as a required parameter in C:\Users\digisoft\source\qrcode\phpqrcode-master\qrimage.php on line 30
+[02-Jun-2025 07:23:24 UTC] PHP Deprecated:  Optional parameter $filename declared before required parameter $fore_color is implicitly treated as a required parameter in C:\Users\digisoft\source\qrcode\phpqrcode-master\qrvect.php on line 140
+[02-Jun-2025 07:23:24 UTC] PHP Deprecated:  Optional parameter $pixelPerPoint declared before required parameter $fore_color is implicitly treated as a required parameter in C:\Users\digisoft\source\qrcode\phpqrcode-master\qrvect.php on line 140
+[02-Jun-2025 07:23:24 UTC] PHP Deprecated:  Optional parameter $outerFrame declared before required parameter $fore_color is implicitly treated as a required parameter in C:\Users\digisoft\source\qrcode\phpqrcode-master\qrvect.php on line 140
+[02-Jun-2025 07:23:24 UTC] PHP Deprecated:  Optional parameter $saveandprint declared before required parameter $fore_color is implicitly treated as a required parameter in C:\Users\digisoft\source\qrcode\phpqrcode-master\qrvect.php on line 140
+[02-Jun-2025 07:24:39 UTC] PHP Deprecated:  Optional parameter $filename declared before required parameter $fore_color is implicitly treated as a required parameter in C:\Users\digisoft\source\qrcode\phpqrcode-master\qrimage.php on line 30
+[02-Jun-2025 07:24:39 UTC] PHP Deprecated:  Optional parameter $pixelPerPoint declared before required parameter $fore_color is implicitly treated as a required parameter in C:\Users\digisoft\source\qrcode\phpqrcode-master\qrimage.php on line 30
+[02-Jun-2025 07:24:39 UTC] PHP Deprecated:  Optional parameter $outerFrame declared before required parameter $fore_color is implicitly treated as a required parameter in C:\Users\digisoft\source\qrcode\phpqrcode-master\qrimage.php on line 30
+[02-Jun-2025 07:24:39 UTC] PHP Deprecated:  Optional parameter $saveandprint declared before required parameter $fore_color is implicitly treated as a required parameter in C:\Users\digisoft\source\qrcode\phpqrcode-master\qrimage.php on line 30
+[02-Jun-2025 07:24:39 UTC] PHP Deprecated:  Optional parameter $filename declared before required parameter $fore_color is implicitly treated as a required parameter in C:\Users\digisoft\source\qrcode\phpqrcode-master\qrvect.php on line 140
+[02-Jun-2025 07:24:39 UTC] PHP Deprecated:  Optional parameter $pixelPerPoint declared before required parameter $fore_color is implicitly treated as a required parameter in C:\Users\digisoft\source\qrcode\phpqrcode-master\qrvect.php on line 140
+[02-Jun-2025 07:24:39 UTC] PHP Deprecated:  Optional parameter $outerFrame declared before required parameter $fore_color is implicitly treated as a required parameter in C:\Users\digisoft\source\qrcode\phpqrcode-master\qrvect.php on line 140
+[02-Jun-2025 07:24:39 UTC] PHP Deprecated:  Optional parameter $saveandprint declared before required parameter $fore_color is implicitly treated as a required parameter in C:\Users\digisoft\source\qrcode\phpqrcode-master\qrvect.php on line 140
+[02-Jun-2025 07:31:12 UTC] PHP Deprecated:  Optional parameter $filename declared before required parameter $fore_color is implicitly treated as a required parameter in C:\Users\digisoft\source\qrcode\phpqrcode-master\qrimage.php on line 30
+[02-Jun-2025 07:31:12 UTC] PHP Deprecated:  Optional parameter $pixelPerPoint declared before required parameter $fore_color is implicitly treated as a required parameter in C:\Users\digisoft\source\qrcode\phpqrcode-master\qrimage.php on line 30
+[02-Jun-2025 07:31:12 UTC] PHP Deprecated:  Optional parameter $outerFrame declared before required parameter $fore_color is implicitly treated as a required parameter in C:\Users\digisoft\source\qrcode\phpqrcode-master\qrimage.php on line 30
+[02-Jun-2025 07:31:12 UTC] PHP Deprecated:  Optional parameter $saveandprint declared before required parameter $fore_color is implicitly treated as a required parameter in C:\Users\digisoft\source\qrcode\phpqrcode-master\qrimage.php on line 30
+[02-Jun-2025 07:31:12 UTC] PHP Deprecated:  Optional parameter $filename declared before required parameter $fore_color is implicitly treated as a required parameter in C:\Users\digisoft\source\qrcode\phpqrcode-master\qrvect.php on line 140
+[02-Jun-2025 07:31:12 UTC] PHP Deprecated:  Optional parameter $pixelPerPoint declared before required parameter $fore_color is implicitly treated as a required parameter in C:\Users\digisoft\source\qrcode\phpqrcode-master\qrvect.php on line 140
+[02-Jun-2025 07:31:12 UTC] PHP Deprecated:  Optional parameter $outerFrame declared before required parameter $fore_color is implicitly treated as a required parameter in C:\Users\digisoft\source\qrcode\phpqrcode-master\qrvect.php on line 140
+[02-Jun-2025 07:31:12 UTC] PHP Deprecated:  Optional parameter $saveandprint declared before required parameter $fore_color is implicitly treated as a required parameter in C:\Users\digisoft\source\qrcode\phpqrcode-master\qrvect.php on line 140
+[02-Jun-2025 07:40:22 UTC] PHP Warning:  Undefined array key "name" in C:\Users\digisoft\source\qrcode\index.php on line 12
+[02-Jun-2025 07:40:22 UTC] PHP Warning:  Undefined array key "email" in C:\Users\digisoft\source\qrcode\index.php on line 13
+[02-Jun-2025 07:40:22 UTC] PHP Warning:  file_put_contents(qrcodes/683d5566821d6.png): Failed to open stream: No such file or directory in C:\Users\digisoft\source\qrcode\index.php on line 25
+[02-Jun-2025 07:40:42 UTC] PHP Warning:  Undefined array key "name" in C:\Users\digisoft\source\qrcode\index.php on line 12
+[02-Jun-2025 07:40:42 UTC] PHP Warning:  Undefined array key "email" in C:\Users\digisoft\source\qrcode\index.php on line 13
+[02-Jun-2025 07:40:42 UTC] PHP Warning:  file_put_contents(qrcodes/683d557aae0a2.png): Failed to open stream: No such file or directory in C:\Users\digisoft\source\qrcode\index.php on line 25
+[02-Jun-2025 07:44:09 UTC] PHP Fatal error:  Uncaught Error: Class "Endroid\QrCode\ErrorCorrectionLevel\ErrorCorrectionLevelHigh" not found in C:\Users\digisoft\source\qrcode\generate_qrcode.php:27
+Stack trace:
+#0 {main}
+  thrown in C:\Users\digisoft\source\qrcode\generate_qrcode.php on line 27
+[02-Jun-2025 07:45:34 UTC] PHP Fatal error:  Uncaught Error: Class "Endroid\QrCode\ErrorCorrectionLevel\ErrorCorrectionLevelHigh" not found in C:\Users\digisoft\source\qrcode\generate_qrcode.php:27
+Stack trace:
+#0 {main}
+  thrown in C:\Users\digisoft\source\qrcode\generate_qrcode.php on line 27
+[02-Jun-2025 07:45:36 UTC] PHP Fatal error:  Uncaught Error: Class "Endroid\QrCode\ErrorCorrectionLevel\ErrorCorrectionLevelHigh" not found in C:\Users\digisoft\source\qrcode\generate_qrcode.php:27
+Stack trace:
+#0 {main}
+  thrown in C:\Users\digisoft\source\qrcode\generate_qrcode.php on line 27
+[02-Jun-2025 07:46:21 UTC] PHP Fatal error:  Uncaught Error: Class "Endroid\QrCode\ErrorCorrectionLevel\ErrorCorrectionLevelHigh" not found in C:\Users\digisoft\source\qrcode\generate_qrcode.php:27
+Stack trace:
+#0 {main}
+  thrown in C:\Users\digisoft\source\qrcode\generate_qrcode.php on line 27
+[02-Jun-2025 07:46:28 UTC] PHP Fatal error:  Uncaught Error: Class "Endroid\QrCode\ErrorCorrectionLevel\ErrorCorrectionLevelHigh" not found in C:\Users\digisoft\source\qrcode\generate_qrcode.php:27
+Stack trace:
+#0 {main}
+  thrown in C:\Users\digisoft\source\qrcode\generate_qrcode.php on line 27
+[02-Jun-2025 07:46:44 UTC] PHP Fatal error:  Uncaught Error: Class "Endroid\QrCode\ErrorCorrectionLevel\ErrorCorrectionLevelHigh" not found in C:\Users\digisoft\source\qrcode\generate_qrcode.php:27
+Stack trace:
+#0 {main}
+  thrown in C:\Users\digisoft\source\qrcode\generate_qrcode.php on line 27
+[02-Jun-2025 07:46:46 UTC] PHP Fatal error:  Uncaught Error: Class "Endroid\QrCode\ErrorCorrectionLevel\ErrorCorrectionLevelHigh" not found in C:\Users\digisoft\source\qrcode\generate_qrcode.php:27
+Stack trace:
+#0 {main}
+  thrown in C:\Users\digisoft\source\qrcode\generate_qrcode.php on line 27
+[02-Jun-2025 07:46:52 UTC] PHP Fatal error:  Uncaught Error: Class "Endroid\QrCode\ErrorCorrectionLevel\ErrorCorrectionLevelHigh" not found in C:\Users\digisoft\source\qrcode\generate_qrcode.php:27
+Stack trace:
+#0 {main}
+  thrown in C:\Users\digisoft\source\qrcode\generate_qrcode.php on line 27
+[02-Jun-2025 07:47:49 UTC] PHP Fatal error:  Uncaught Error: Class "Endroid\QrCode\ErrorCorrectionLevel\ErrorCorrectionLevel" not found in C:\Users\digisoft\source\qrcode\generate_qrcode.php:31
+Stack trace:
+#0 {main}
+  thrown in C:\Users\digisoft\source\qrcode\generate_qrcode.php on line 31
+[02-Jun-2025 07:48:37 UTC] PHP Fatal error:  Uncaught Error: Class "Endroid\QrCode\ErrorCorrectionLevel\ErrorCorrectionLevel" not found in C:\Users\digisoft\source\qrcode\generate_qrcode.php:31
+Stack trace:
+#0 {main}
+  thrown in C:\Users\digisoft\source\qrcode\generate_qrcode.php on line 31
+[02-Jun-2025 07:48:40 UTC] PHP Fatal error:  Uncaught Error: Class "Endroid\QrCode\ErrorCorrectionLevel\ErrorCorrectionLevel" not found in C:\Users\digisoft\source\qrcode\generate_qrcode.php:31
+Stack trace:
+#0 {main}
+  thrown in C:\Users\digisoft\source\qrcode\generate_qrcode.php on line 31
+[02-Jun-2025 07:50:47 UTC] PHP Fatal error:  Uncaught Error: Class "Endroid\QrCode\ErrorCorrectionLevel\ErrorCorrectionLevel" not found in C:\Users\digisoft\source\qrcode\generate_qrcode.php:31
+Stack trace:
+#0 {main}
+  thrown in C:\Users\digisoft\source\qrcode\generate_qrcode.php on line 31
+[02-Jun-2025 07:52:49 UTC] PHP Fatal error:  Uncaught Error: Class "Endroid\QrCode\src\ErrorCorrectionLevel\ErrorCorrectionLevel" not found in C:\Users\digisoft\source\qrcode\generate_qrcode.php:31
+Stack trace:
+#0 {main}
+  thrown in C:\Users\digisoft\source\qrcode\generate_qrcode.php on line 31
+[02-Jun-2025 11:17:10 UTC] PHP Warning:  Undefined variable $pdo in C:\Users\digisoft\source\qrcode\generate_qrcode.php on line 44
+[02-Jun-2025 11:17:10 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\Users\digisoft\source\qrcode\generate_qrcode.php:44
+Stack trace:
+#0 {main}
+  thrown in C:\Users\digisoft\source\qrcode\generate_qrcode.php on line 44
+[02-Jun-2025 11:33:03 UTC] PHP Warning:  Undefined variable $expiry_date in C:\Users\digisoft\source\qrcode\generate_qrcode.php on line 32
+[02-Jun-2025 11:33:03 UTC] PHP Warning:  Undefined variable $expiry_date in C:\Users\digisoft\source\qrcode\generate_qrcode.php on line 36
+[02-Jun-2025 11:33:03 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Column count doesn't match value count at row 1 in C:\Users\digisoft\source\qrcode\generate_qrcode.php:81
+Stack trace:
+#0 C:\Users\digisoft\source\qrcode\generate_qrcode.php(81): mysqli->prepare('INSERT INTO users (name, flat_no, expiry_date, photo) VALUES (?, ?, ?, ?, ?)')
+#1 {main}
+  thrown in C:\Users\digisoft\source\qrcode\generate_qrcode.php on line 81
+[02-Jun-2025 11:33:48 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Column count doesn't match value count at row 1 in C:\Users\digisoft\source\qrcode\generate_qrcode.php:81
+Stack trace:
+#0 C:\Users\digisoft\source\qrcode\generate_qrcode.php(81): mysqli->prepare('INSERT INTO users (name, flat_no, expiry_date, photo) VALUES (?, ?, ?, ?, ?)')
+#1 {main}
+  thrown in C:\Users\digisoft\source\qrcode\generate_qrcode.php on line 81
+[02-Jun-2025 11:34:14 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Column count doesn't match value count at row 1 in C:\Users\digisoft\source\qrcode\generate_qrcode.php:81
+Stack trace:
+#0 C:\Users\digisoft\source\qrcode\generate_qrcode.php(81): mysqli->prepare('INSERT INTO users (name, flat_no, expiry_date, photo) VALUES (?, ?, ?, ?, ?)')
+#1 {main}
+  thrown in C:\Users\digisoft\source\qrcode\generate_qrcode.php on line 81
+[02-Jun-2025 11:35:43 UTC] PHP Fatal error:  Uncaught ArgumentCountError: The number of elements in the type definition string must match the number of bind variables in C:\Users\digisoft\source\qrcode\generate_qrcode.php:82
+Stack trace:
+#0 C:\Users\digisoft\source\qrcode\generate_qrcode.php(82): mysqli_stmt->bind_param('ssss', 'dsdsad', '434', '2025-06-24', '683d8c8f63349.jpeg', 'qrcodes/secure_qrcode_user_683d8c8f501b3.png')
+#1 {main}
+  thrown in C:\Users\digisoft\source\qrcode\generate_qrcode.php on line 82
+[02-Jun-2025 11:36:57 UTC] PHP Fatal error:  Uncaught ArgumentCountError: The number of elements in the type definition string must match the number of bind variables in C:\Users\digisoft\source\qrcode\generate_qrcode.php:82
+Stack trace:
+#0 C:\Users\digisoft\source\qrcode\generate_qrcode.php(82): mysqli_stmt->bind_param('ssss', 'dsdsad', '434', '2025-06-24', '683d8cd9777d9.jpeg', 'secure_qrcode_user_683d8cd967400.png')
+#1 {main}
+  thrown in C:\Users\digisoft\source\qrcode\generate_qrcode.php on line 82
+[02-Jun-2025 12:00:52 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method Endroid\QrCode\Builder\Builder::logo() in C:\Users\digisoft\source\qrcode\generate_qrcode.php:77
+Stack trace:
+#0 {main}
+  thrown in C:\Users\digisoft\source\qrcode\generate_qrcode.php on line 77
+[02-Jun-2025 12:02:41 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method Endroid\QrCode\Builder\Builder::logo() in C:\Users\digisoft\source\qrcode\generate_qrcode.php:77
+Stack trace:
+#0 {main}
+  thrown in C:\Users\digisoft\source\qrcode\generate_qrcode.php on line 77
+[03-Jun-2025 07:37:34 UTC] PHP Warning:  Undefined array key "id" in C:\Users\digisoft\source\qrcode\list.php on line 25
+[03-Jun-2025 07:37:34 UTC] PHP Warning:  Undefined array key "id" in C:\Users\digisoft\source\qrcode\list.php on line 31
+[03-Jun-2025 07:37:34 UTC] PHP Warning:  Undefined array key "id" in C:\Users\digisoft\source\qrcode\list.php on line 32
+[03-Jun-2025 07:37:34 UTC] PHP Warning:  Undefined array key "id" in C:\Users\digisoft\source\qrcode\list.php on line 25
+[03-Jun-2025 07:37:34 UTC] PHP Warning:  Undefined array key "id" in C:\Users\digisoft\source\qrcode\list.php on line 31
+[03-Jun-2025 07:37:34 UTC] PHP Warning:  Undefined array key "id" in C:\Users\digisoft\source\qrcode\list.php on line 32
+[03-Jun-2025 07:37:34 UTC] PHP Warning:  Undefined array key "id" in C:\Users\digisoft\source\qrcode\list.php on line 25
+[03-Jun-2025 07:37:34 UTC] PHP Warning:  Undefined array key "id" in C:\Users\digisoft\source\qrcode\list.php on line 31
+[03-Jun-2025 07:37:34 UTC] PHP Warning:  Undefined array key "id" in C:\Users\digisoft\source\qrcode\list.php on line 32
+[03-Jun-2025 07:37:34 UTC] PHP Warning:  Undefined array key "id" in C:\Users\digisoft\source\qrcode\list.php on line 25
+[03-Jun-2025 07:37:34 UTC] PHP Warning:  Undefined array key "id" in C:\Users\digisoft\source\qrcode\list.php on line 31
+[03-Jun-2025 07:37:34 UTC] PHP Warning:  Undefined array key "id" in C:\Users\digisoft\source\qrcode\list.php on line 32
+[03-Jun-2025 07:37:34 UTC] PHP Warning:  Undefined array key "id" in C:\Users\digisoft\source\qrcode\list.php on line 25
+[03-Jun-2025 07:37:34 UTC] PHP Warning:  Undefined array key "id" in C:\Users\digisoft\source\qrcode\list.php on line 31
+[03-Jun-2025 07:37:34 UTC] PHP Warning:  Undefined array key "id" in C:\Users\digisoft\source\qrcode\list.php on line 32
+[03-Jun-2025 07:37:34 UTC] PHP Warning:  Undefined array key "id" in C:\Users\digisoft\source\qrcode\list.php on line 25
+[03-Jun-2025 07:37:34 UTC] PHP Warning:  Undefined array key "id" in C:\Users\digisoft\source\qrcode\list.php on line 31
+[03-Jun-2025 07:37:34 UTC] PHP Warning:  Undefined array key "id" in C:\Users\digisoft\source\qrcode\list.php on line 32
+[03-Jun-2025 07:37:34 UTC] PHP Warning:  Undefined array key "id" in C:\Users\digisoft\source\qrcode\list.php on line 25
+[03-Jun-2025 07:37:34 UTC] PHP Warning:  Undefined array key "id" in C:\Users\digisoft\source\qrcode\list.php on line 31
+[03-Jun-2025 07:37:34 UTC] PHP Warning:  Undefined array key "id" in C:\Users\digisoft\source\qrcode\list.php on line 32
+[03-Jun-2025 07:37:34 UTC] PHP Warning:  Undefined array key "id" in C:\Users\digisoft\source\qrcode\list.php on line 25
+[03-Jun-2025 07:37:34 UTC] PHP Warning:  Undefined array key "id" in C:\Users\digisoft\source\qrcode\list.php on line 31
+[03-Jun-2025 07:37:34 UTC] PHP Warning:  Undefined array key "id" in C:\Users\digisoft\source\qrcode\list.php on line 32
+[03-Jun-2025 07:37:34 UTC] PHP Warning:  Undefined array key "id" in C:\Users\digisoft\source\qrcode\list.php on line 25
+[03-Jun-2025 07:37:34 UTC] PHP Warning:  Undefined array key "id" in C:\Users\digisoft\source\qrcode\list.php on line 31
+[03-Jun-2025 07:37:34 UTC] PHP Warning:  Undefined array key "id" in C:\Users\digisoft\source\qrcode\list.php on line 32
+[03-Jun-2025 07:37:34 UTC] PHP Warning:  Undefined array key "id" in C:\Users\digisoft\source\qrcode\list.php on line 25
+[03-Jun-2025 07:37:34 UTC] PHP Warning:  Undefined array key "id" in C:\Users\digisoft\source\qrcode\list.php on line 31
+[03-Jun-2025 07:37:34 UTC] PHP Warning:  Undefined array key "id" in C:\Users\digisoft\source\qrcode\list.php on line 32
+[03-Jun-2025 07:37:34 UTC] PHP Warning:  Undefined array key "id" in C:\Users\digisoft\source\qrcode\list.php on line 25
+[03-Jun-2025 07:37:34 UTC] PHP Warning:  Undefined array key "id" in C:\Users\digisoft\source\qrcode\list.php on line 31
+[03-Jun-2025 07:37:34 UTC] PHP Warning:  Undefined array key "id" in C:\Users\digisoft\source\qrcode\list.php on line 32
+[03-Jun-2025 07:37:34 UTC] PHP Warning:  Undefined array key "id" in C:\Users\digisoft\source\qrcode\list.php on line 25
+[03-Jun-2025 07:37:34 UTC] PHP Warning:  Undefined array key "id" in C:\Users\digisoft\source\qrcode\list.php on line 31
+[03-Jun-2025 07:37:34 UTC] PHP Warning:  Undefined array key "id" in C:\Users\digisoft\source\qrcode\list.php on line 32
+[03-Jun-2025 07:37:34 UTC] PHP Warning:  Undefined array key "id" in C:\Users\digisoft\source\qrcode\list.php on line 25
+[03-Jun-2025 07:37:34 UTC] PHP Warning:  Undefined array key "id" in C:\Users\digisoft\source\qrcode\list.php on line 31
+[03-Jun-2025 07:37:34 UTC] PHP Warning:  Undefined array key "id" in C:\Users\digisoft\source\qrcode\list.php on line 32
+[03-Jun-2025 07:37:49 UTC] PHP Warning:  Undefined array key "id" in C:\Users\digisoft\source\qrcode\list.php on line 31
+[03-Jun-2025 07:37:49 UTC] PHP Warning:  Undefined array key "id" in C:\Users\digisoft\source\qrcode\list.php on line 32
+[03-Jun-2025 07:37:49 UTC] PHP Warning:  Undefined array key "id" in C:\Users\digisoft\source\qrcode\list.php on line 31
+[03-Jun-2025 07:37:49 UTC] PHP Warning:  Undefined array key "id" in C:\Users\digisoft\source\qrcode\list.php on line 32
+[03-Jun-2025 07:37:49 UTC] PHP Warning:  Undefined array key "id" in C:\Users\digisoft\source\qrcode\list.php on line 31
+[03-Jun-2025 07:37:49 UTC] PHP Warning:  Undefined array key "id" in C:\Users\digisoft\source\qrcode\list.php on line 32
+[03-Jun-2025 07:37:49 UTC] PHP Warning:  Undefined array key "id" in C:\Users\digisoft\source\qrcode\list.php on line 31
+[03-Jun-2025 07:37:49 UTC] PHP Warning:  Undefined array key "id" in C:\Users\digisoft\source\qrcode\list.php on line 32
+[03-Jun-2025 07:37:49 UTC] PHP Warning:  Undefined array key "id" in C:\Users\digisoft\source\qrcode\list.php on line 31
+[03-Jun-2025 07:37:50 UTC] PHP Warning:  Undefined array key "id" in C:\Users\digisoft\source\qrcode\list.php on line 32
+[03-Jun-2025 07:37:50 UTC] PHP Warning:  Undefined array key "id" in C:\Users\digisoft\source\qrcode\list.php on line 31
+[03-Jun-2025 07:37:50 UTC] PHP Warning:  Undefined array key "id" in C:\Users\digisoft\source\qrcode\list.php on line 32
+[03-Jun-2025 07:37:50 UTC] PHP Warning:  Undefined array key "id" in C:\Users\digisoft\source\qrcode\list.php on line 31
+[03-Jun-2025 07:37:50 UTC] PHP Warning:  Undefined array key "id" in C:\Users\digisoft\source\qrcode\list.php on line 32
+[03-Jun-2025 07:37:50 UTC] PHP Warning:  Undefined array key "id" in C:\Users\digisoft\source\qrcode\list.php on line 31
+[03-Jun-2025 07:37:50 UTC] PHP Warning:  Undefined array key "id" in C:\Users\digisoft\source\qrcode\list.php on line 32
+[03-Jun-2025 07:37:50 UTC] PHP Warning:  Undefined array key "id" in C:\Users\digisoft\source\qrcode\list.php on line 31
+[03-Jun-2025 07:37:50 UTC] PHP Warning:  Undefined array key "id" in C:\Users\digisoft\source\qrcode\list.php on line 32
+[03-Jun-2025 07:37:50 UTC] PHP Warning:  Undefined array key "id" in C:\Users\digisoft\source\qrcode\list.php on line 31
+[03-Jun-2025 07:37:50 UTC] PHP Warning:  Undefined array key "id" in C:\Users\digisoft\source\qrcode\list.php on line 32
+[03-Jun-2025 07:37:50 UTC] PHP Warning:  Undefined array key "id" in C:\Users\digisoft\source\qrcode\list.php on line 31
+[03-Jun-2025 07:37:50 UTC] PHP Warning:  Undefined array key "id" in C:\Users\digisoft\source\qrcode\list.php on line 32
+[03-Jun-2025 07:37:50 UTC] PHP Warning:  Undefined array key "id" in C:\Users\digisoft\source\qrcode\list.php on line 31
+[03-Jun-2025 07:37:50 UTC] PHP Warning:  Undefined array key "id" in C:\Users\digisoft\source\qrcode\list.php on line 32
+[03-Jun-2025 07:37:50 UTC] PHP Warning:  Undefined array key "id" in C:\Users\digisoft\source\qrcode\list.php on line 31
+[03-Jun-2025 07:37:50 UTC] PHP Warning:  Undefined array key "id" in C:\Users\digisoft\source\qrcode\list.php on line 32
+[03-Jun-2025 07:37:52 UTC] PHP Warning:  Undefined array key "id" in C:\Users\digisoft\source\qrcode\list.php on line 31
+[03-Jun-2025 07:37:52 UTC] PHP Warning:  Undefined array key "id" in C:\Users\digisoft\source\qrcode\list.php on line 32
+[03-Jun-2025 07:37:52 UTC] PHP Warning:  Undefined array key "id" in C:\Users\digisoft\source\qrcode\list.php on line 31
+[03-Jun-2025 07:37:52 UTC] PHP Warning:  Undefined array key "id" in C:\Users\digisoft\source\qrcode\list.php on line 32
+[03-Jun-2025 07:37:52 UTC] PHP Warning:  Undefined array key "id" in C:\Users\digisoft\source\qrcode\list.php on line 31
+[03-Jun-2025 07:37:52 UTC] PHP Warning:  Undefined array key "id" in C:\Users\digisoft\source\qrcode\list.php on line 32
+[03-Jun-2025 07:37:52 UTC] PHP Warning:  Undefined array key "id" in C:\Users\digisoft\source\qrcode\list.php on line 31
+[03-Jun-2025 07:37:52 UTC] PHP Warning:  Undefined array key "id" in C:\Users\digisoft\source\qrcode\list.php on line 32
+[03-Jun-2025 07:37:52 UTC] PHP Warning:  Undefined array key "id" in C:\Users\digisoft\source\qrcode\list.php on line 31
+[03-Jun-2025 07:37:52 UTC] PHP Warning:  Undefined array key "id" in C:\Users\digisoft\source\qrcode\list.php on line 32
+[03-Jun-2025 07:37:52 UTC] PHP Warning:  Undefined array key "id" in C:\Users\digisoft\source\qrcode\list.php on line 31
+[03-Jun-2025 07:37:52 UTC] PHP Warning:  Undefined array key "id" in C:\Users\digisoft\source\qrcode\list.php on line 32
+[03-Jun-2025 07:37:52 UTC] PHP Warning:  Undefined array key "id" in C:\Users\digisoft\source\qrcode\list.php on line 31
+[03-Jun-2025 07:37:52 UTC] PHP Warning:  Undefined array key "id" in C:\Users\digisoft\source\qrcode\list.php on line 32
+[03-Jun-2025 07:37:52 UTC] PHP Warning:  Undefined array key "id" in C:\Users\digisoft\source\qrcode\list.php on line 31
+[03-Jun-2025 07:37:52 UTC] PHP Warning:  Undefined array key "id" in C:\Users\digisoft\source\qrcode\list.php on line 32
+[03-Jun-2025 07:37:52 UTC] PHP Warning:  Undefined array key "id" in C:\Users\digisoft\source\qrcode\list.php on line 31
+[03-Jun-2025 07:37:52 UTC] PHP Warning:  Undefined array key "id" in C:\Users\digisoft\source\qrcode\list.php on line 32
+[03-Jun-2025 07:37:52 UTC] PHP Warning:  Undefined array key "id" in C:\Users\digisoft\source\qrcode\list.php on line 31
+[03-Jun-2025 07:37:52 UTC] PHP Warning:  Undefined array key "id" in C:\Users\digisoft\source\qrcode\list.php on line 32
+[03-Jun-2025 07:37:52 UTC] PHP Warning:  Undefined array key "id" in C:\Users\digisoft\source\qrcode\list.php on line 31
+[03-Jun-2025 07:37:52 UTC] PHP Warning:  Undefined array key "id" in C:\Users\digisoft\source\qrcode\list.php on line 32
+[03-Jun-2025 07:37:52 UTC] PHP Warning:  Undefined array key "id" in C:\Users\digisoft\source\qrcode\list.php on line 31
+[03-Jun-2025 07:37:52 UTC] PHP Warning:  Undefined array key "id" in C:\Users\digisoft\source\qrcode\list.php on line 32
+[03-Jun-2025 07:37:52 UTC] PHP Warning:  Undefined array key "id" in C:\Users\digisoft\source\qrcode\list.php on line 31
+[03-Jun-2025 07:37:52 UTC] PHP Warning:  Undefined array key "id" in C:\Users\digisoft\source\qrcode\list.php on line 32
+[03-Jun-2025 09:10:33 UTC] PHP Warning:  require(db.php): Failed to open stream: No such file or directory in C:\Users\digisoft\source\qrcode\delete_user.php on line 2
+[03-Jun-2025 09:10:33 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'db.php' (include_path='.;C:\php\pear') in C:\Users\digisoft\source\qrcode\delete_user.php:2
+Stack trace:
+#0 {main}
+  thrown in C:\Users\digisoft\source\qrcode\delete_user.php on line 2
+[03-Jun-2025 10:07:19 UTC] PHP Warning:  Undefined variable $qr_code in C:\Users\digisoft\source\qrcode\get_user.php on line 18
+[03-Jun-2025 10:07:19 UTC] PHP Warning:  Undefined variable $qr_code in C:\Users\digisoft\source\qrcode\get_user.php on line 19
+[03-Jun-2025 10:07:33 UTC] PHP Warning:  Undefined variable $qr_code in C:\Users\digisoft\source\qrcode\get_user.php on line 18
+[03-Jun-2025 10:07:33 UTC] PHP Warning:  Undefined variable $qr_code in C:\Users\digisoft\source\qrcode\get_user.php on line 19
+[03-Jun-2025 10:31:30 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Incorrect date value: '06-06-2025' for column 'expiry_date' at row 1 in C:\Users\digisoft\source\qrcode\update.php:11
+Stack trace:
+#0 C:\Users\digisoft\source\qrcode\update.php(11): mysqli_stmt->execute()
+#1 {main}
+  thrown in C:\Users\digisoft\source\qrcode\update.php on line 11
+[03-Jun-2025 10:32:52 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Incorrect date value: '19-06-2025' for column 'expiry_date' at row 1 in C:\Users\digisoft\source\qrcode\update.php:11
+Stack trace:
+#0 C:\Users\digisoft\source\qrcode\update.php(11): mysqli_stmt->execute()
+#1 {main}
+  thrown in C:\Users\digisoft\source\qrcode\update.php on line 11
+[03-Jun-2025 10:36:47 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Field 'is_deleted' doesn't have a default value in C:\Users\digisoft\source\qrcode\generate_qrcode.php:44
+Stack trace:
+#0 C:\Users\digisoft\source\qrcode\generate_qrcode.php(44): mysqli_stmt->execute()
+#1 {main}
+  thrown in C:\Users\digisoft\source\qrcode\generate_qrcode.php on line 44
+[03-Jun-2025 10:53:06 UTC] PHP Warning:  Undefined variable $qrPath in C:\Users\digisoft\source\qrcode\footer.php on line 246
+[03-Jun-2025 10:53:12 UTC] PHP Warning:  Undefined variable $qrPath in C:\Users\digisoft\source\qrcode\footer.php on line 246
+[03-Jun-2025 10:53:19 UTC] PHP Warning:  Undefined variable $qrPath in C:\Users\digisoft\source\qrcode\footer.php on line 246
+[03-Jun-2025 12:00:24 UTC] PHP Warning:  Undefined array key "is_deleted" in C:\Users\digisoft\source\qrcode\list.php on line 29
+[03-Jun-2025 12:00:24 UTC] PHP Warning:  Undefined array key "is_deleted" in C:\Users\digisoft\source\qrcode\list.php on line 29
+[03-Jun-2025 12:00:24 UTC] PHP Warning:  Undefined array key "is_deleted" in C:\Users\digisoft\source\qrcode\list.php on line 29
+[03-Jun-2025 12:00:24 UTC] PHP Warning:  Undefined array key "is_deleted" in C:\Users\digisoft\source\qrcode\list.php on line 29
+[03-Jun-2025 12:00:24 UTC] PHP Warning:  Undefined array key "is_deleted" in C:\Users\digisoft\source\qrcode\list.php on line 29
+[03-Jun-2025 12:00:24 UTC] PHP Warning:  Undefined array key "is_deleted" in C:\Users\digisoft\source\qrcode\list.php on line 29
+[03-Jun-2025 12:00:24 UTC] PHP Warning:  Undefined array key "is_deleted" in C:\Users\digisoft\source\qrcode\list.php on line 29
+[03-Jun-2025 12:00:24 UTC] PHP Warning:  Undefined array key "is_deleted" in C:\Users\digisoft\source\qrcode\list.php on line 29
+[03-Jun-2025 12:00:24 UTC] PHP Warning:  Undefined array key "is_deleted" in C:\Users\digisoft\source\qrcode\list.php on line 29
+[03-Jun-2025 12:00:24 UTC] PHP Warning:  Undefined array key "is_deleted" in C:\Users\digisoft\source\qrcode\list.php on line 29
+[03-Jun-2025 12:00:24 UTC] PHP Warning:  Undefined array key "is_deleted" in C:\Users\digisoft\source\qrcode\list.php on line 29
+[03-Jun-2025 12:00:24 UTC] PHP Warning:  Undefined array key "is_deleted" in C:\Users\digisoft\source\qrcode\list.php on line 29
+[03-Jun-2025 12:00:24 UTC] PHP Warning:  Undefined array key "is_deleted" in C:\Users\digisoft\source\qrcode\list.php on line 29
+[03-Jun-2025 12:00:24 UTC] PHP Warning:  Undefined array key "is_deleted" in C:\Users\digisoft\source\qrcode\list.php on line 29
+[03-Jun-2025 12:00:24 UTC] PHP Warning:  Undefined array key "is_deleted" in C:\Users\digisoft\source\qrcode\list.php on line 29
+[03-Jun-2025 12:00:24 UTC] PHP Warning:  Undefined array key "is_deleted" in C:\Users\digisoft\source\qrcode\list.php on line 29
+[03-Jun-2025 12:00:51 UTC] PHP Warning:  Undefined array key "is_deleted" in C:\Users\digisoft\source\qrcode\list.php on line 29
+[03-Jun-2025 12:00:51 UTC] PHP Warning:  Undefined array key "is_deleted" in C:\Users\digisoft\source\qrcode\list.php on line 29
+[03-Jun-2025 12:00:51 UTC] PHP Warning:  Undefined array key "is_deleted" in C:\Users\digisoft\source\qrcode\list.php on line 29
+[03-Jun-2025 12:00:51 UTC] PHP Warning:  Undefined array key "is_deleted" in C:\Users\digisoft\source\qrcode\list.php on line 29
+[03-Jun-2025 12:00:51 UTC] PHP Warning:  Undefined array key "is_deleted" in C:\Users\digisoft\source\qrcode\list.php on line 29
+[03-Jun-2025 12:00:51 UTC] PHP Warning:  Undefined array key "is_deleted" in C:\Users\digisoft\source\qrcode\list.php on line 29
+[03-Jun-2025 12:00:51 UTC] PHP Warning:  Undefined array key "is_deleted" in C:\Users\digisoft\source\qrcode\list.php on line 29
+[03-Jun-2025 12:00:51 UTC] PHP Warning:  Undefined array key "is_deleted" in C:\Users\digisoft\source\qrcode\list.php on line 29
+[03-Jun-2025 12:00:51 UTC] PHP Warning:  Undefined array key "is_deleted" in C:\Users\digisoft\source\qrcode\list.php on line 29
+[03-Jun-2025 12:00:51 UTC] PHP Warning:  Undefined array key "is_deleted" in C:\Users\digisoft\source\qrcode\list.php on line 29
+[03-Jun-2025 12:00:51 UTC] PHP Warning:  Undefined array key "is_deleted" in C:\Users\digisoft\source\qrcode\list.php on line 29
+[03-Jun-2025 12:00:51 UTC] PHP Warning:  Undefined array key "is_deleted" in C:\Users\digisoft\source\qrcode\list.php on line 29
+[03-Jun-2025 12:00:51 UTC] PHP Warning:  Undefined array key "is_deleted" in C:\Users\digisoft\source\qrcode\list.php on line 29
+[03-Jun-2025 12:00:51 UTC] PHP Warning:  Undefined array key "is_deleted" in C:\Users\digisoft\source\qrcode\list.php on line 29
+[03-Jun-2025 12:00:51 UTC] PHP Warning:  Undefined array key "is_deleted" in C:\Users\digisoft\source\qrcode\list.php on line 29
+[03-Jun-2025 12:00:51 UTC] PHP Warning:  Undefined array key "is_deleted" in C:\Users\digisoft\source\qrcode\list.php on line 29
+[03-Jun-2025 12:02:46 UTC] PHP Warning:  Undefined variable $tarshicon in C:\Users\digisoft\source\qrcode\list.php on line 40
+[03-Jun-2025 12:02:46 UTC] PHP Warning:  Undefined variable $tarshicon in C:\Users\digisoft\source\qrcode\list.php on line 40
+[03-Jun-2025 12:02:46 UTC] PHP Warning:  Undefined variable $tarshicon in C:\Users\digisoft\source\qrcode\list.php on line 40
+[03-Jun-2025 12:02:46 UTC] PHP Warning:  Undefined variable $tarshicon in C:\Users\digisoft\source\qrcode\list.php on line 40
+[03-Jun-2025 12:02:46 UTC] PHP Warning:  Undefined variable $tarshicon in C:\Users\digisoft\source\qrcode\list.php on line 40
+[03-Jun-2025 12:02:46 UTC] PHP Warning:  Undefined variable $tarshicon in C:\Users\digisoft\source\qrcode\list.php on line 40
+[03-Jun-2025 12:02:46 UTC] PHP Warning:  Undefined variable $tarshicon in C:\Users\digisoft\source\qrcode\list.php on line 40
+[03-Jun-2025 12:02:46 UTC] PHP Warning:  Undefined variable $tarshicon in C:\Users\digisoft\source\qrcode\list.php on line 40
+[03-Jun-2025 12:02:46 UTC] PHP Warning:  Undefined variable $tarshicon in C:\Users\digisoft\source\qrcode\list.php on line 40
+[03-Jun-2025 12:02:46 UTC] PHP Warning:  Undefined variable $tarshicon in C:\Users\digisoft\source\qrcode\list.php on line 40
+[03-Jun-2025 12:02:46 UTC] PHP Warning:  Undefined variable $tarshicon in C:\Users\digisoft\source\qrcode\list.php on line 40
+[03-Jun-2025 12:02:46 UTC] PHP Warning:  Undefined variable $tarshicon in C:\Users\digisoft\source\qrcode\list.php on line 40
+[03-Jun-2025 12:02:46 UTC] PHP Warning:  Undefined variable $tarshicon in C:\Users\digisoft\source\qrcode\list.php on line 40
+[03-Jun-2025 12:02:46 UTC] PHP Warning:  Undefined variable $tarshicon in C:\Users\digisoft\source\qrcode\list.php on line 40
+[03-Jun-2025 12:02:46 UTC] PHP Warning:  Undefined variable $tarshicon in C:\Users\digisoft\source\qrcode\list.php on line 40
+[03-Jun-2025 12:02:46 UTC] PHP Warning:  Undefined variable $tarshicon in C:\Users\digisoft\source\qrcode\list.php on line 40
+[04-Jun-2025 04:29:01 UTC] PHP Warning:  include(scan_code.php): Failed to open stream: No such file or directory in C:\Users\digisoft\source\qrcode\validate_qrcode.php on line 25
+[04-Jun-2025 04:29:01 UTC] PHP Warning:  include(): Failed opening 'scan_code.php' for inclusion (include_path='.;C:\php\pear') in C:\Users\digisoft\source\qrcode\validate_qrcode.php on line 25
+[04-Jun-2025 04:29:46 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function echohtmlspecialchars() in C:\Users\digisoft\source\qrcode\scan_qrcode.php:8
+Stack trace:
+#0 C:\Users\digisoft\source\qrcode\validate_qrcode.php(25): include()
+#1 {main}
+  thrown in C:\Users\digisoft\source\qrcode\scan_qrcode.php on line 8
+[04-Jun-2025 04:49:16 UTC] PHP Parse error:  syntax error, unexpected string content "footer.ph" in C:\Users\digisoft\source\qrcode\secure-code.php on line 35
+[04-Jun-2025 07:33:16 UTC] PHP Warning:  Undefined variable $pdo in C:\Users\digisoft\source\qrcode\forgot_password.php on line 9
+[04-Jun-2025 07:33:16 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\Users\digisoft\source\qrcode\forgot_password.php:9
+Stack trace:
+#0 {main}
+  thrown in C:\Users\digisoft\source\qrcode\forgot_password.php on line 9
+[04-Jun-2025 07:34:27 UTC] PHP Fatal error:  Uncaught ArgumentCountError: mysqli_stmt::fetch() expects exactly 0 arguments, 1 given in C:\Users\digisoft\source\qrcode\forgot_password.php:11
+Stack trace:
+#0 C:\Users\digisoft\source\qrcode\forgot_password.php(11): mysqli_stmt->fetch(2)
+#1 {main}
+  thrown in C:\Users\digisoft\source\qrcode\forgot_password.php on line 11
+[04-Jun-2025 07:55:33 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Column 'reset_token' cannot be null in C:\Users\digisoft\source\qrcode\reset_password.php:20
+Stack trace:
+#0 C:\Users\digisoft\source\qrcode\reset_password.php(20): mysqli_stmt->execute()
+#1 {main}
+  thrown in C:\Users\digisoft\source\qrcode\reset_password.php on line 20
+[04-Jun-2025 08:04:40 UTC] PHP Parse error:  syntax error, unexpected end of file in C:\Users\digisoft\source\qrcode\list.php on line 158
+[04-Jun-2025 09:04:38 UTC] PHP Warning:  include(auth_check.php): Failed to open stream: No such file or directory in C:\Users\digisoft\source\qrcode\list.php on line 5
+[04-Jun-2025 09:04:38 UTC] PHP Warning:  include(): Failed opening 'auth_check.php' for inclusion (include_path='.;C:\php\pear') in C:\Users\digisoft\source\qrcode\list.php on line 5
+[04-Jun-2025 09:41:14 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\Users\digisoft\source\qrcode\list.php on line 2
+[04-Jun-2025 09:52:51 UTC] PHP Warning:  Undefined variable $qrPath in C:\Users\digisoft\source\qrcode\generate_qrcode.php on line 92
+[04-Jun-2025 09:52:51 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in C:\Users\digisoft\source\qrcode\generate_qrcode.php on line 92
+[04-Jun-2025 09:52:51 UTC] PHP Warning:  Undefined variable $qrPath in C:\Users\digisoft\source\qrcode\generate_qrcode.php on line 96
+[04-Jun-2025 09:52:51 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in C:\Users\digisoft\source\qrcode\generate_qrcode.php on line 96
+[04-Jun-2025 12:05:35 UTC] PHP Parse error:  syntax error, unexpected token "<", expecting end of file in C:\Users\digisoft\source\qrcode\load_users.php on line 2
+[04-Jun-2025 12:05:54 UTC] PHP Parse error:  syntax error, unexpected token "<", expecting end of file in C:\Users\digisoft\source\qrcode\load_users.php on line 2
+[04-Jun-2025 12:05:59 UTC] PHP Parse error:  syntax error, unexpected token "<", expecting end of file in C:\Users\digisoft\source\qrcode\load_users.php on line 2
+[04-Jun-2025 12:06:03 UTC] PHP Parse error:  syntax error, unexpected token "<", expecting end of file in C:\Users\digisoft\source\qrcode\load_users.php on line 2
+[04-Jun-2025 12:47:01 UTC] PHP Warning:  mail(): Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() in C:\Users\digisoft\source\qrcode\forgot_password.php on line 28
+[04-Jun-2025 12:50:42 UTC] PHP Warning:  require(PHPMailer/PHPMailer.php): Failed to open stream: No such file or directory in C:\Users\digisoft\source\qrcode\forgot_password.php on line 6
+[04-Jun-2025 12:50:42 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'PHPMailer/PHPMailer.php' (include_path='.;C:\php\pear') in C:\Users\digisoft\source\qrcode\forgot_password.php:6
+Stack trace:
+#0 {main}
+  thrown in C:\Users\digisoft\source\qrcode\forgot_password.php on line 6
+[04-Jun-2025 12:53:57 UTC] PHP Warning:  require(PHPMailer/src/Exception.php): Failed to open stream: No such file or directory in C:\Users\digisoft\source\qrcode\forgot_password.php on line 6
+[04-Jun-2025 12:53:57 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'PHPMailer/src/Exception.php' (include_path='.;C:\php\pear') in C:\Users\digisoft\source\qrcode\forgot_password.php:6
+Stack trace:
+#0 {main}
+  thrown in C:\Users\digisoft\source\qrcode\forgot_password.php on line 6
+[04-Jun-2025 12:55:30 UTC] PHP Warning:  require(PHPMailer/src/Exception.php): Failed to open stream: No such file or directory in C:\Users\digisoft\source\qrcode\forgot_password.php on line 6
+[04-Jun-2025 12:55:30 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'PHPMailer/src/Exception.php' (include_path='.;C:\php\pear') in C:\Users\digisoft\source\qrcode\forgot_password.php:6
+Stack trace:
+#0 {main}
+  thrown in C:\Users\digisoft\source\qrcode\forgot_password.php on line 6
+[04-Jun-2025 12:55:32 UTC] PHP Warning:  require(PHPMailer/src/Exception.php): Failed to open stream: No such file or directory in C:\Users\digisoft\source\qrcode\forgot_password.php on line 6
+[04-Jun-2025 12:55:32 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'PHPMailer/src/Exception.php' (include_path='.;C:\php\pear') in C:\Users\digisoft\source\qrcode\forgot_password.php:6
+Stack trace:
+#0 {main}
+  thrown in C:\Users\digisoft\source\qrcode\forgot_password.php on line 6
+[04-Jun-2025 12:56:06 UTC] PHP Warning:  require(PHPMailer/PHPMailer.php): Failed to open stream: No such file or directory in C:\Users\digisoft\source\qrcode\forgot_password.php on line 6
+[04-Jun-2025 12:56:06 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'PHPMailer/PHPMailer.php' (include_path='.;C:\php\pear') in C:\Users\digisoft\source\qrcode\forgot_password.php:6
+Stack trace:
+#0 {main}
+  thrown in C:\Users\digisoft\source\qrcode\forgot_password.php on line 6
+[04-Jun-2025 12:56:08 UTC] PHP Warning:  require(PHPMailer/PHPMailer.php): Failed to open stream: No such file or directory in C:\Users\digisoft\source\qrcode\forgot_password.php on line 6
+[04-Jun-2025 12:56:08 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'PHPMailer/PHPMailer.php' (include_path='.;C:\php\pear') in C:\Users\digisoft\source\qrcode\forgot_password.php:6
+Stack trace:
+#0 {main}
+  thrown in C:\Users\digisoft\source\qrcode\forgot_password.php on line 6
+[04-Jun-2025 12:57:48 UTC] PHP Warning:  require(PHPMailer/PHPMailer.php): Failed to open stream: No such file or directory in C:\Users\digisoft\source\qrcode\forgot_password.php on line 12
+[04-Jun-2025 12:57:48 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'PHPMailer/PHPMailer.php' (include_path='.;C:\php\pear') in C:\Users\digisoft\source\qrcode\forgot_password.php:12
+Stack trace:
+#0 {main}
+  thrown in C:\Users\digisoft\source\qrcode\forgot_password.php on line 12
+[04-Jun-2025 12:57:55 UTC] PHP Warning:  require(PHPMailer/PHPMailer.php): Failed to open stream: No such file or directory in C:\Users\digisoft\source\qrcode\forgot_password.php on line 12
+[04-Jun-2025 12:57:55 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'PHPMailer/PHPMailer.php' (include_path='.;C:\php\pear') in C:\Users\digisoft\source\qrcode\forgot_password.php:12
+Stack trace:
+#0 {main}
+  thrown in C:\Users\digisoft\source\qrcode\forgot_password.php on line 12
+[04-Jun-2025 12:57:57 UTC] PHP Warning:  require(PHPMailer/PHPMailer.php): Failed to open stream: No such file or directory in C:\Users\digisoft\source\qrcode\forgot_password.php on line 12
+[04-Jun-2025 12:57:57 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'PHPMailer/PHPMailer.php' (include_path='.;C:\php\pear') in C:\Users\digisoft\source\qrcode\forgot_password.php:12
+Stack trace:
+#0 {main}
+  thrown in C:\Users\digisoft\source\qrcode\forgot_password.php on line 12
+[04-Jun-2025 12:57:58 UTC] PHP Warning:  require(PHPMailer/PHPMailer.php): Failed to open stream: No such file or directory in C:\Users\digisoft\source\qrcode\forgot_password.php on line 12
+[04-Jun-2025 12:57:58 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'PHPMailer/PHPMailer.php' (include_path='.;C:\php\pear') in C:\Users\digisoft\source\qrcode\forgot_password.php:12
+Stack trace:
+#0 {main}
+  thrown in C:\Users\digisoft\source\qrcode\forgot_password.php on line 12
+[04-Jun-2025 12:57:58 UTC] PHP Warning:  require(PHPMailer/PHPMailer.php): Failed to open stream: No such file or directory in C:\Users\digisoft\source\qrcode\forgot_password.php on line 12
+[04-Jun-2025 12:57:58 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'PHPMailer/PHPMailer.php' (include_path='.;C:\php\pear') in C:\Users\digisoft\source\qrcode\forgot_password.php:12
+Stack trace:
+#0 {main}
+  thrown in C:\Users\digisoft\source\qrcode\forgot_password.php on line 12
+[04-Jun-2025 12:57:58 UTC] PHP Warning:  require(PHPMailer/PHPMailer.php): Failed to open stream: No such file or directory in C:\Users\digisoft\source\qrcode\forgot_password.php on line 12
+[04-Jun-2025 12:57:58 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'PHPMailer/PHPMailer.php' (include_path='.;C:\php\pear') in C:\Users\digisoft\source\qrcode\forgot_password.php:12
+Stack trace:
+#0 {main}
+  thrown in C:\Users\digisoft\source\qrcode\forgot_password.php on line 12
+[04-Jun-2025 12:57:59 UTC] PHP Warning:  require(PHPMailer/PHPMailer.php): Failed to open stream: No such file or directory in C:\Users\digisoft\source\qrcode\forgot_password.php on line 12
+[04-Jun-2025 12:57:59 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'PHPMailer/PHPMailer.php' (include_path='.;C:\php\pear') in C:\Users\digisoft\source\qrcode\forgot_password.php:12
+Stack trace:
+#0 {main}
+  thrown in C:\Users\digisoft\source\qrcode\forgot_password.php on line 12
+[04-Jun-2025 12:57:59 UTC] PHP Warning:  require(PHPMailer/PHPMailer.php): Failed to open stream: No such file or directory in C:\Users\digisoft\source\qrcode\forgot_password.php on line 12
+[04-Jun-2025 12:57:59 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'PHPMailer/PHPMailer.php' (include_path='.;C:\php\pear') in C:\Users\digisoft\source\qrcode\forgot_password.php:12
+Stack trace:
+#0 {main}
+  thrown in C:\Users\digisoft\source\qrcode\forgot_password.php on line 12
+[04-Jun-2025 12:57:59 UTC] PHP Warning:  require(PHPMailer/PHPMailer.php): Failed to open stream: No such file or directory in C:\Users\digisoft\source\qrcode\forgot_password.php on line 12
+[04-Jun-2025 12:57:59 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'PHPMailer/PHPMailer.php' (include_path='.;C:\php\pear') in C:\Users\digisoft\source\qrcode\forgot_password.php:12
+Stack trace:
+#0 {main}
+  thrown in C:\Users\digisoft\source\qrcode\forgot_password.php on line 12
+[04-Jun-2025 12:57:59 UTC] PHP Warning:  require(PHPMailer/PHPMailer.php): Failed to open stream: No such file or directory in C:\Users\digisoft\source\qrcode\forgot_password.php on line 12
+[04-Jun-2025 12:57:59 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'PHPMailer/PHPMailer.php' (include_path='.;C:\php\pear') in C:\Users\digisoft\source\qrcode\forgot_password.php:12
+Stack trace:
+#0 {main}
+  thrown in C:\Users\digisoft\source\qrcode\forgot_password.php on line 12
+[04-Jun-2025 12:57:59 UTC] PHP Warning:  require(PHPMailer/PHPMailer.php): Failed to open stream: No such file or directory in C:\Users\digisoft\source\qrcode\forgot_password.php on line 12
+[04-Jun-2025 12:57:59 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'PHPMailer/PHPMailer.php' (include_path='.;C:\php\pear') in C:\Users\digisoft\source\qrcode\forgot_password.php:12
+Stack trace:
+#0 {main}
+  thrown in C:\Users\digisoft\source\qrcode\forgot_password.php on line 12
+[04-Jun-2025 12:58:42 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'token_expiry' in 'field list' in C:\Users\digisoft\source\qrcode\forgot_password.php:29
+Stack trace:
+#0 C:\Users\digisoft\source\qrcode\forgot_password.php(29): mysqli->prepare('UPDATE admin SET reset_token = ?, token_expiry = ? WHERE email = ?')
+#1 {main}
+  thrown in C:\Users\digisoft\source\qrcode\forgot_password.php on line 29
+[04-Jun-2025 13:21:26 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'reset_token,token_update_time' in 'field list' in C:\Users\digisoft\source\qrcode\reset_password.php:13
+Stack trace:
+#0 C:\Users\digisoft\source\qrcode\reset_password.php(13): mysqli->prepare('SELECT `reset_token,token_update_time` FROM admin WHERE reset_token = ?')
+#1 {main}
+  thrown in C:\Users\digisoft\source\qrcode\reset_password.php on line 13
+[05-Jun-2025 05:42:15 UTC] PHP Warning:  Undefined variable $flat_no in C:\Users\digisoft\source\qrcode\generate_qrcode.php on line 79
+[05-Jun-2025 07:34:57 UTC] PHP Fatal error:  Uncaught Error: Class "Endroid\QrCode\Label\Alignment\LabelAlignmentCenter" not found in C:\Users\digisoft\source\qrcode\generate_qrcode.php:88
+Stack trace:
+#0 {main}
+  thrown in C:\Users\digisoft\source\qrcode\generate_qrcode.php on line 88
+[05-Jun-2025 07:37:08 UTC] PHP Fatal error:  Uncaught Error: Class "Endroid\QrCode\Label\LabelAlignmentCenter" not found in C:\Users\digisoft\source\qrcode\generate_qrcode.php:88
+Stack trace:
+#0 {main}
+  thrown in C:\Users\digisoft\source\qrcode\generate_qrcode.php on line 88
+[05-Jun-2025 07:41:46 UTC] PHP Fatal error:  Uncaught Error: Class "LabelAlignmentCenter" not found in C:\Users\digisoft\source\qrcode\generate_qrcode.php:88
+Stack trace:
+#0 {main}
+  thrown in C:\Users\digisoft\source\qrcode\generate_qrcode.php on line 88
+[05-Jun-2025 07:50:17 UTC] PHP Fatal error:  Uncaught Exception: Label does not support line breaks in C:\Users\digisoft\source\qrcode\vendor\endroid\qr-code\src\ImageData\LabelImageData.php:20
+Stack trace:
+#0 C:\Users\digisoft\source\qrcode\vendor\endroid\qr-code\src\Writer\AbstractGdWriter.php(71): Endroid\QrCode\ImageData\LabelImageData::createForLabel(Object(Endroid\QrCode\Label\Label))
+#1 C:\Users\digisoft\source\qrcode\vendor\endroid\qr-code\src\Writer\PngWriter.php(25): Endroid\QrCode\Writer\AbstractGdWriter->write(Object(Endroid\QrCode\QrCode), NULL, Object(Endroid\QrCode\Label\Label), Array)
+#2 C:\Users\digisoft\source\qrcode\vendor\endroid\qr-code\src\Builder\Builder.php(235): Endroid\QrCode\Writer\PngWriter->write(Object(Endroid\QrCode\QrCode), NULL, Object(Endroid\QrCode\Label\Label), Array)
+#3 C:\Users\digisoft\source\qrcode\generate_qrcode.php(88): Endroid\QrCode\Builder\Builder->build()
+#4 {main}
+  thrown in C:\Users\digisoft\source\qrcode\vendor\endroid\qr-code\src\ImageData\LabelImageData.php on line 20
+[05-Jun-2025 07:55:56 UTC] PHP Warning:  imagettfbbox(): Could not find/open font in C:\Users\digisoft\source\qrcode\generate_qrcode.php on line 115
+[05-Jun-2025 07:55:56 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\digisoft\source\qrcode\generate_qrcode.php on line 116
+[05-Jun-2025 07:55:56 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\digisoft\source\qrcode\generate_qrcode.php on line 116
+[05-Jun-2025 07:55:56 UTC] PHP Warning:  imagettftext(): Could not find/open font in C:\Users\digisoft\source\qrcode\generate_qrcode.php on line 119
+[05-Jun-2025 08:01:38 UTC] PHP Warning:  Undefined variable $fontPath in C:\Users\digisoft\source\qrcode\generate_qrcode.php on line 115
+[05-Jun-2025 08:01:38 UTC] PHP Deprecated:  imagettfbbox(): Passing null to parameter #3 ($font_filename) of type string is deprecated in C:\Users\digisoft\source\qrcode\generate_qrcode.php on line 115
+[05-Jun-2025 08:01:38 UTC] PHP Warning:  imagettfbbox(): Could not find/open font in C:\Users\digisoft\source\qrcode\generate_qrcode.php on line 115
+[05-Jun-2025 08:01:38 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\digisoft\source\qrcode\generate_qrcode.php on line 116
+[05-Jun-2025 08:01:38 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\digisoft\source\qrcode\generate_qrcode.php on line 116
+[05-Jun-2025 08:01:38 UTC] PHP Warning:  Undefined variable $fontPath in C:\Users\digisoft\source\qrcode\generate_qrcode.php on line 119
+[05-Jun-2025 08:01:38 UTC] PHP Deprecated:  imagettftext(): Passing null to parameter #7 ($font_filename) of type string is deprecated in C:\Users\digisoft\source\qrcode\generate_qrcode.php on line 119
+[05-Jun-2025 08:01:38 UTC] PHP Warning:  imagettftext(): Could not find/open font in C:\Users\digisoft\source\qrcode\generate_qrcode.php on line 119
+[05-Jun-2025 08:55:23 UTC] PHP Parse error:  syntax error, unexpected token "if" in C:\Users\digisoft\source\qrcode\load_users.php on line 42
+[05-Jun-2025 10:11:42 UTC] PHP Parse error:  Unmatched '}' in C:\Users\digisoft\source\qrcode\break.php on line 167
+[05-Jun-2025 10:12:53 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function formatFileName() in C:\Users\digisoft\source\qrcode\break.php:77
+Stack trace:
+#0 {main}
+  thrown in C:\Users\digisoft\source\qrcode\break.php on line 77
+[05-Jun-2025 10:13:12 UTC] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in C:\Users\digisoft\source\qrcode\break.php:117
+Stack trace:
+#0 {main}
+  thrown in C:\Users\digisoft\source\qrcode\break.php on line 117
+[05-Jun-2025 10:31:50 UTC] PHP Fatal error:  Uncaught TypeError: imagesx(): Argument #1 ($image) must be of type GdImage, bool given in C:\Users\digisoft\source\qrcode\break.php:71
+Stack trace:
+#0 C:\Users\digisoft\source\qrcode\break.php(71): imagesx(false)
+#1 {main}
+  thrown in C:\Users\digisoft\source\qrcode\break.php on line 71
+[06-Jun-2025 06:38:22 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'T1' in 'where clause' in C:\Users\digisoft\source\qrcode\update.php:17
+Stack trace:
+#0 C:\Users\digisoft\source\qrcode\update.php(17): mysqli->query('SELECT name, flat_no, expiry_date, photo, qr_code FROM users WHERE flat_no = T1-120')
+#1 {main}
+  thrown in C:\Users\digisoft\source\qrcode\update.php on line 17
+[06-Jun-2025 06:38:56 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'T1-120' in 'where clause' in C:\Users\digisoft\source\qrcode\update.php:17
+Stack trace:
+#0 C:\Users\digisoft\source\qrcode\update.php(17): mysqli->query('SELECT name, flat_no, expiry_date, photo, qr_code FROM users WHERE flat_no = `T1-120`')
+#1 {main}
+  thrown in C:\Users\digisoft\source\qrcode\update.php on line 17
+[06-Jun-2025 06:39:48 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'T1' in 'where clause' in C:\Users\digisoft\source\qrcode\update.php:17
+Stack trace:
+#0 C:\Users\digisoft\source\qrcode\update.php(17): mysqli->query('SELECT name, flat_no, expiry_date, photo, qr_code FROM users WHERE flat_no = T1-120')
+#1 {main}
+  thrown in C:\Users\digisoft\source\qrcode\update.php on line 17
+[06-Jun-2025 06:39:53 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'T1' in 'where clause' in C:\Users\digisoft\source\qrcode\update.php:17
+Stack trace:
+#0 C:\Users\digisoft\source\qrcode\update.php(17): mysqli->query('SELECT name, flat_no, expiry_date, photo, qr_code FROM users WHERE flat_no = T1-120')
+#1 {main}
+  thrown in C:\Users\digisoft\source\qrcode\update.php on line 17
+[06-Jun-2025 06:41:17 UTC] PHP Parse error:  syntax error, unexpected single-quoted string ".$flatno_id."" in C:\Users\digisoft\source\qrcode\update.php on line 16
+[06-Jun-2025 06:42:38 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'T1' in 'where clause' in C:\Users\digisoft\source\qrcode\update.php:17
+Stack trace:
+#0 C:\Users\digisoft\source\qrcode\update.php(17): mysqli->query('SELECT name, flat_no, expiry_date, photo, qr_code FROM users WHERE flat_no =T1-120')
+#1 {main}
+  thrown in C:\Users\digisoft\source\qrcode\update.php on line 17
+[06-Jun-2025 06:59:57 UTC] PHP Fatal error:  Uncaught ArgumentCountError: imagefilledrectangle() expects exactly 6 arguments, 5 given in C:\Users\digisoft\source\qrcode\generate_qrcode.php:75
+Stack trace:
+#0 C:\Users\digisoft\source\qrcode\generate_qrcode.php(75): imagefilledrectangle(Object(GdImage), 560, 0, 600, 300)
+#1 {main}
+  thrown in C:\Users\digisoft\source\qrcode\generate_qrcode.php on line 75
+[09-Jun-2025 07:47:13 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Column count doesn't match value count at row 1 in C:\Users\digisoft\source\ajowa.webdummy.info\generate_qrcode.php:67
+Stack trace:
+#0 C:\Users\digisoft\source\ajowa.webdummy.info\generate_qrcode.php(67): mysqli->prepare('INSERT INTO users (name, type, flat_no, expiry_date, photo, is_deleted) VALUES (?, ?, ?, ?, 0)')
+#1 {main}
+  thrown in C:\Users\digisoft\source\ajowa.webdummy.info\generate_qrcode.php on line 67
+[09-Jun-2025 08:53:02 UTC] PHP Parse error:  Unclosed '{' on line 6 in C:\Users\digisoft\source\ajowa.webdummy.info\update.php on line 91
+[09-Jun-2025 08:54:07 UTC] PHP Parse error:  Unclosed '{' on line 6 in C:\Users\digisoft\source\ajowa.webdummy.info\update.php on line 91
+[09-Jun-2025 09:04:41 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'db_connection.php' (include_path='.;C:\php\pear') in C:\Users\digisoft\source\ajowa.webdummy.info\update.php:11
+Stack trace:
+#0 {main}
+  thrown in C:\Users\digisoft\source\ajowa.webdummy.info\update.php on line 11
+[09-Jun-2025 10:09:13 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond in C:\Users\digisoft\source\ajowa.webdummy.info\config.php:7
+Stack trace:
+#0 C:\Users\digisoft\source\ajowa.webdummy.info\config.php(7): mysqli->__construct('127.0.0.1', 'root', 'Developer@123', 'qrcode')
+#1 C:\Users\digisoft\source\ajowa.webdummy.info\error_handler.php(3): require('C:\\Users\\digisoft\\source\\ajowa.webdummy.info\\config.php')
+#2 [internal function]: logErrorToDatabase(8192, 'imagecreatetruecolor(): Passing null to parameter #2 ($height) of type int is deprecated', 'C:\\Users\\digisoft\\source\\ajowa.webdummy.info\\generate_qrcode.php', 161)
+#3 C:\Users\digisoft\source\ajowa.webdummy.info\generate_qrcode.php(161): imagecreatetruecolor(NULL, NULL)
+#4 {main}
+  thrown in C:\Users\digisoft\source\ajowa.webdummy.info\config.php on line 7
+[09-Jun-2025 10:14:40 UTC] PHP Fatal error:  Uncaught TypeError: imagecolorallocate(): Argument #1 ($image) must be of type GdImage, null given in C:\Users\digisoft\source\ajowa.webdummy.info\generate_qrcode.php:155
+Stack trace:
+#0 C:\Users\digisoft\source\ajowa.webdummy.info\generate_qrcode.php(155): imagecolorallocate(NULL, 0, 0, 0)
+#1 {main}
+  thrown in C:\Users\digisoft\source\ajowa.webdummy.info\generate_qrcode.php on line 155
+[10-Jun-2025 08:02:06 UTC] PHP Fatal error:  Uncaught Error: Class "mysqli" not found in C:\Users\digisoft\source\ajowa.webdummy.info\config.php:7
+Stack trace:
+#0 C:\Users\digisoft\source\ajowa.webdummy.info\index.php(5): require()
+#1 {main}
+  thrown in C:\Users\digisoft\source\ajowa.webdummy.info\config.php on line 7
+[10-Jun-2025 08:05:33 UTC] PHP Fatal error:  Uncaught Error: Class "mysqli" not found in C:\Users\digisoft\source\ajowa.webdummy.info\config.php:7
+Stack trace:
+#0 C:\Users\digisoft\source\ajowa.webdummy.info\index.php(5): require()
+#1 {main}
+  thrown in C:\Users\digisoft\source\ajowa.webdummy.info\config.php on line 7
+[10-Jun-2025 08:05:43 UTC] PHP Fatal error:  Uncaught Error: Class "mysqli" not found in C:\Users\digisoft\source\ajowa.webdummy.info\config.php:7
+Stack trace:
+#0 C:\Users\digisoft\source\ajowa.webdummy.info\index.php(5): require()
+#1 {main}
+  thrown in C:\Users\digisoft\source\ajowa.webdummy.info\config.php on line 7
+[10-Jun-2025 08:05:45 UTC] PHP Fatal error:  Uncaught Error: Class "mysqli" not found in C:\Users\digisoft\source\ajowa.webdummy.info\config.php:7
+Stack trace:
+#0 C:\Users\digisoft\source\ajowa.webdummy.info\index.php(5): require()
+#1 {main}
+  thrown in C:\Users\digisoft\source\ajowa.webdummy.info\config.php on line 7
+[10-Jun-2025 08:05:48 UTC] PHP Fatal error:  Uncaught Error: Class "mysqli" not found in C:\Users\digisoft\source\ajowa.webdummy.info\config.php:7
+Stack trace:
+#0 C:\Users\digisoft\source\ajowa.webdummy.info\index.php(5): require()
+#1 {main}
+  thrown in C:\Users\digisoft\source\ajowa.webdummy.info\config.php on line 7
+[10-Jun-2025 08:05:49 UTC] PHP Fatal error:  Uncaught Error: Class "mysqli" not found in C:\Users\digisoft\source\ajowa.webdummy.info\config.php:7
+Stack trace:
+#0 C:\Users\digisoft\source\ajowa.webdummy.info\index.php(5): require()
+#1 {main}
+  thrown in C:\Users\digisoft\source\ajowa.webdummy.info\config.php on line 7
+[10-Jun-2025 08:06:01 UTC] PHP Fatal error:  Uncaught Error: Class "mysqli" not found in C:\Users\digisoft\source\ajowa.webdummy.info\config.php:7
+Stack trace:
+#0 C:\Users\digisoft\source\ajowa.webdummy.info\index.php(5): require()
+#1 {main}
+  thrown in C:\Users\digisoft\source\ajowa.webdummy.info\config.php on line 7
+[10-Jun-2025 08:06:04 UTC] PHP Fatal error:  Uncaught Error: Class "mysqli" not found in C:\Users\digisoft\source\ajowa.webdummy.info\config.php:7
+Stack trace:
+#0 C:\Users\digisoft\source\ajowa.webdummy.info\index.php(5): require()
+#1 {main}
+  thrown in C:\Users\digisoft\source\ajowa.webdummy.info\config.php on line 7
+[10-Jun-2025 08:06:06 UTC] PHP Fatal error:  Uncaught Error: Class "mysqli" not found in C:\Users\digisoft\source\ajowa.webdummy.info\config.php:7
+Stack trace:
+#0 C:\Users\digisoft\source\ajowa.webdummy.info\index.php(5): require()
+#1 {main}
+  thrown in C:\Users\digisoft\source\ajowa.webdummy.info\config.php on line 7
+[10-Jun-2025 08:06:08 UTC] PHP Fatal error:  Uncaught Error: Class "mysqli" not found in C:\Users\digisoft\source\ajowa.webdummy.info\config.php:7
+Stack trace:
+#0 C:\Users\digisoft\source\ajowa.webdummy.info\index.php(5): require()
+#1 {main}
+  thrown in C:\Users\digisoft\source\ajowa.webdummy.info\config.php on line 7
+[10-Jun-2025 08:06:16 UTC] PHP Fatal error:  Uncaught Error: Class "mysqli" not found in C:\Users\digisoft\source\ajowa.webdummy.info\config.php:7
+Stack trace:
+#0 C:\Users\digisoft\source\ajowa.webdummy.info\index.php(5): require()
+#1 {main}
+  thrown in C:\Users\digisoft\source\ajowa.webdummy.info\config.php on line 7
+[10-Jun-2025 08:06:23 UTC] PHP Fatal error:  Uncaught Error: Class "mysqli" not found in C:\Users\digisoft\source\ajowa.webdummy.info\config.php:7
+Stack trace:
+#0 C:\Users\digisoft\source\ajowa.webdummy.info\index.php(5): require()
+#1 {main}
+  thrown in C:\Users\digisoft\source\ajowa.webdummy.info\config.php on line 7
+[10-Jun-2025 08:11:11 UTC] PHP Fatal error:  Uncaught Error: Class "mysqli" not found in C:\Users\digisoft\source\ajowa.webdummy.info\config.php:7
+Stack trace:
+#0 C:\Users\digisoft\source\ajowa.webdummy.info\index.php(5): require()
+#1 {main}
+  thrown in C:\Users\digisoft\source\ajowa.webdummy.info\config.php on line 7
+[10-Jun-2025 08:12:12 UTC] PHP Fatal error:  Uncaught Error: Class "mysqli" not found in C:\Users\digisoft\source\ajowa.webdummy.info\config.php:7
+Stack trace:
+#0 C:\Users\digisoft\source\ajowa.webdummy.info\index.php(5): require()
+#1 {main}
+  thrown in C:\Users\digisoft\source\ajowa.webdummy.info\config.php on line 7
+[10-Jun-2025 08:12:26 UTC] PHP Fatal error:  Uncaught Error: Class "mysqli" not found in C:\Users\digisoft\source\ajowa.webdummy.info\config.php:7
+Stack trace:
+#0 C:\Users\digisoft\source\ajowa.webdummy.info\index.php(5): require()
+#1 {main}
+  thrown in C:\Users\digisoft\source\ajowa.webdummy.info\config.php on line 7
+[10-Jun-2025 08:12:26 UTC] PHP Fatal error:  Uncaught Error: Class "mysqli" not found in C:\Users\digisoft\source\ajowa.webdummy.info\config.php:7
+Stack trace:
+#0 C:\Users\digisoft\source\ajowa.webdummy.info\index.php(5): require()
+#1 {main}
+  thrown in C:\Users\digisoft\source\ajowa.webdummy.info\config.php on line 7
+[10-Jun-2025 08:14:04 UTC] PHP Fatal error:  Uncaught Error: Class "mysqli" not found in C:\Users\digisoft\source\ajowa.webdummy.info\config.php:7
+Stack trace:
+#0 C:\Users\digisoft\source\ajowa.webdummy.info\index.php(5): require()
+#1 {main}
+  thrown in C:\Users\digisoft\source\ajowa.webdummy.info\config.php on line 7
+[10-Jun-2025 08:14:06 UTC] PHP Fatal error:  Uncaught Error: Class "mysqli" not found in C:\Users\digisoft\source\ajowa.webdummy.info\config.php:7
+Stack trace:
+#0 C:\Users\digisoft\source\ajowa.webdummy.info\index.php(5): require()
+#1 {main}
+  thrown in C:\Users\digisoft\source\ajowa.webdummy.info\config.php on line 7
+[10-Jun-2025 08:16:41 UTC] PHP Fatal error:  Uncaught Error: Class "mysqli" not found in C:\Users\digisoft\source\ajowa.webdummy.info\config.php:7
+Stack trace:
+#0 C:\Users\digisoft\source\ajowa.webdummy.info\index.php(5): require()
+#1 {main}
+  thrown in C:\Users\digisoft\source\ajowa.webdummy.info\config.php on line 7
